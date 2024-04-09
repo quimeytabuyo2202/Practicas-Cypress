@@ -1,0 +1,9 @@
+{
+    "inpUsernameLogin": "#username",
+    "inputRegisterUser": "#reg_email",
+    "inputRegisterPass": "#reg_password",
+    "inpPassLogin": "#password",
+    "btnIniciarSesionLogin": ":nth-child(3) > .woocommerce-Button",
+    "botonRegistro": ".woocomerce-FormRow > .woocommerce-Button",
+    "cartelErrorLogin": ".woocommerce-error > li"
+}
